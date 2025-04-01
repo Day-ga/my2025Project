@@ -10,4 +10,3 @@ class AliasApplication
 fun main(args: Array<String>) {
     runApplication<AliasApplication>(*args)
 }
-
